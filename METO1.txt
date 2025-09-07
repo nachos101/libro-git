@@ -1,0 +1,10 @@
+EJERCICIO 1:
+a)Una metodología de desarrollo de software define el ciclo de vida
+que se utilizará y los artefactos que se deben generar en cada una
+de las etapas del ciclo de vida
+
+b)Un modelo de ciclo de vida, es una representación abstracta de
+un proceso
+
+c)Las etapas del ciclo de vida definen las actividades necesarias
+para desarrollar un sistema

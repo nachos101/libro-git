@@ -1,0 +1,55 @@
+TECNOLOGIA: Conjunto de conocimientos y habilidades, en el cual tenemos un objetivo clave.
+Vamos a conseguir una solucion determinada que nos permita como seres humanos resolver un problema determinado
+hasta lograr una satisfacer una necesidad en un ambito concreto.
+
+Una definicion mas corta podria ser:
+Es un conocimiento aplicado a una problematica humana.
+
+
+Información: Es la base que utilizamos para tomar decisiones.
+
+-La informacion esta constituida por un grupo de datos ya supervisados y ordenados, que sirven
+para construir un mensaje basado en un cierto fenomeno.
+La informacion permite resolver problemas y tomar decisiones, ya que su aprovechamiento de manera racional 
+es el conocimiento
+¿Porque los datos deben estar supervisados?
+El dato tiene que tener un contexto para que sea una informacion, y si sobre esa informacion
+elaboro un juicio, obtengo un conocimiento.
+Que los datos esten supervisados quiere decir que yo me tome el trabajo de ver si los valores
+de esos datos son verdaderos/posibles para las variables que estoy guardando.
+
+Organización: Es un sistema diseñado para alcanzar metas y objetivos. Estos sistemas a su vez, pueden
+estar conformados por otros subsistemas
+Tambien una organización es un grupo social formado por personas, tareas y administracion que
+interactuan en el marco de una estructura sistematica para cumplir con sus objetivos
+ELEMENTOS DE UNA ORGANIZACIÓN
+-Objetivos: Son los fines hacia donde se encamina la actividad de la organización
+-Metas: Son fines especificos, expresados de manera cuantitativa
+-Recursos Humanos: Son las personas o grupos de personas que trabajan en la organización y se relacionan entre si,
+aportando esfuerzo fisico e intelectual.
+	Recursos Materiales: Son los medios que utiliza la organización para realizar sus objetivos
+		Físicos: materias primas, maquinarias,vehículos,etc.
+		Naturales: combustible, energia, etc.
+		Financieros: dinero, prestamos, bonos, etc.
+CLASIFICACIÓN DE LAS ORGANIZACIONES
+Finalidad
+	-Con fines de lucro (empresas)
+	-Sin fines de lucro (ONG's)
+	-Con fines administrativos, representativos, resolución (organizacióes gubernamentales)
+Formalidad
+	-Formales
+	-Informales
+Grado de centralización
+-Centralizadas
+-Descentralizadas
+Localización
+	-Locales
+	-Nacionales
+	-Internacionales
+Propiedad
+	-Publica
+	-Privada
+Toma de decisiones
+	-Horizontales
+	-Verticales
+	-Red
