@@ -8,3 +8,42 @@ un proceso
 
 c)Las etapas del ciclo de vida definen las actividades necesarias
 para desarrollar un sistema
+
+d) ∙ Analista de sistemas
+	∙ Diseñadores
+	∙ Programadores
+	∙ Arquitectos
+	∙ Analistas de pruebas
+	∙ Lideres de proyectos
+	∙ Revisores técnicos
+e) Se refiere a cualquier documentación
+creada, producida, cambiada o utilizada por las personas en el
+desarrollo del sistema
+
+EJERCICIO 2:
+Porque es una forma disciplinada para desarrollar software con el objetivo de hacerlo mas predecible y eficiente
+
+EJERCICIO 3: 
+
+Ciclo Casdada:
+	● Considera que las actividades (o etapas) del proceso de desarrollo:
+	  Requerimientos, análisis, diseño, implementación y prueba, son
+	  etapas separadas que para continuar con la siguiente se debe
+	  completar totalmente la anterior
+	● La retroalimentación con el cliente se realiza una vez que el producto
+	  ha sido terminado
+	● Es muy costoso volver a las etapas anteriores para realizar
+	  modificaciones por un malentendimiento de los requerimientos
+Ciclo Incremental:
+	●El software se desarrolla gradualmente, por funcionalidades que
+	incrementan el producto
+	●Luego de cada ciclo es posible realizar una entrega de software
+	parcial al cliente
+Ciclo Iterativo:
+	●El software se desarrolla gradualmente, por funcionalidades que
+	incrementan el producto
+	●Se aplican pequeños ciclos de vida en cascada (iteraciones)
+	●Luego de cada ciclo es posible realizar una entrega de software
+	parcial al cliente
+
+EJERCICIO 4:
